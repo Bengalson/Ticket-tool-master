@@ -1,0 +1,7 @@
+{
+    "prefix":"$",
+    "token":"Bot-token",
+    "url":"Your-db-url",
+    "dbName":"Your-db-name",
+    "paypal_email": "Your-paypal-email"
+}
